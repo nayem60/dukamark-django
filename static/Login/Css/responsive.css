@@ -1,0 +1,223 @@
+/* Small Mobile -START (320 * 440) */
+@media (min-width: 320px) and (max-width: 440px) {
+
+	/* >>>>> LOGIN = (START) >>>>> */
+	button {
+
+		font-size: 14px;
+		padding: 8px 30px;
+
+	}
+
+	button:hover {
+
+		padding: 8px 35px;
+	}
+
+	form {
+
+		padding: 0 10px;
+
+	}
+
+	.form-container h1 {
+		font-size: 30px;
+	}
+
+	.form-container a {
+
+		font-size: 12px;
+	}
+
+	.form-container .input {
+		padding: 0px 2px;
+
+	}
+
+	.form-container .input i {
+		margin-top: 9px;
+		margin-left: 5px;
+		font-size: 13px;
+	}
+
+	.form-container .input input {
+		padding: 0px 5px;
+		margin: 5px 0;
+		font-weight: 400;
+		font-size: 12px;
+	}
+
+	.form-container .input input:focus {
+		font-weight: 400;
+		color: #333;
+		font-size: 12px;
+
+	}
+
+	.form-container .input input::placeholder {
+		font-weight: 400;
+		font-size: 12px;
+	}
+
+	.sign-in-container {
+		left: 0;
+		width: 50%;
+		z-index: 2;
+	}
+
+	.overlay-container h1 {
+		font-size: 20px;
+	}
+
+	.overlay-panel {
+
+		padding: 0 10px;
+
+	}
+
+	.overlay-panel h1 {
+		font-size: 30px;
+	}
+
+	.overlay-panel p {
+		padding: 10px 0px 15px;
+		font-size: 13px;
+	}
+
+	.social-container a i {
+		height: 30px;
+		width: 30px;
+		font-size: 16px;
+		line-height: 1.8;
+	}
+
+	/* <<<<< LOGIN = (ENDS) <<<<<< */
+
+}
+
+/* Small Mobile- END (320 * 440) */
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+/* Medium Mobile- START (441 * 575)*/
+@media (min-width: 441px) and (max-width: 575px) {
+
+	/* >>>>> LOGIN = (START) >>>>> */
+	button {
+
+		font-size: 14px;
+		padding: 8px 30px;
+
+	}
+
+	button:hover {
+
+		padding: 8px 35px;
+	}
+
+	form {
+
+		padding: 0 10px;
+
+	}
+
+	.form-container h1 {
+		font-size: 30px;
+	}
+
+	.form-container a {
+
+		font-size: 12px;
+	}
+
+	.form-container .input {
+		padding: 0px 2px;
+
+	}
+
+	.form-container .input i {
+		margin-top: 9px;
+		margin-left: 5px;
+		font-size: 13px;
+	}
+
+	.form-container .input input {
+		padding: 0px 5px;
+		margin: 5px 0;
+		font-weight: 400;
+		font-size: 12px;
+	}
+
+	.form-container .input input:focus {
+		font-weight: 400;
+		color: #333;
+		font-size: 12px;
+
+	}
+
+	.form-container .input input::placeholder {
+		font-weight: 400;
+		font-size: 12px;
+	}
+
+	.sign-in-container {
+		left: 0;
+		width: 50%;
+		z-index: 2;
+	}
+
+	.overlay-container h1 {
+		font-size: 20px;
+	}
+
+	.overlay-panel {
+
+		padding: 0 10px;
+
+	}
+
+	.overlay-panel h1 {
+		font-size: 30px;
+	}
+
+	.overlay-panel p {
+		padding: 10px 0px 15px;
+		font-size: 13px;
+	}
+
+	.social-container a i {
+		height: 30px;
+		width: 30px;
+		font-size: 16px;
+		line-height: 1.8;
+	}
+
+	/* <<<<< LOGIN = (ENDS) <<<<<< */
+}
+
+/* Medium Mobile- END (441 * 575) */
+/*---------------------------------------------------------------------------------------------------------------------*/
+/* Large Mobile- START (576 * 764)*/
+@media (min-width: 576px) and (max-width: 764px) {}
+
+/* Large Mobile- END  (576 * 764)*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+/*  TAB- START (765 * 991)*/
+@media (min-width: 765px) and (max-width: 991px) {}
+
+/*  TAB- END (765 * 991)*/
+/*---------------------------------------------------------------------------------------------------------------------*/
+/*  Laptop- START (992 * 1199)*/
+@media (min-width: 992px) and (max-width: 1199px) {}
+
+/*  Laptop- END (992 * 1199)*/
+
+/*---------------------------------------------------------------------------------------------------------------------*/
+
+/*  Destop- START (1200 * 1300)*/
+@media (min-width: 1200px) and (max-width:1300px) {}
+
+/*  Destop- END (1200 * 1300)*/
+
+/*---------------------------------------------------------------------------------------------------------------------*/
